@@ -7,6 +7,8 @@ import { NotificationProvider } from "@/components/notification-provider"
 
 const inter = Inter({ subsets: ["latin"] })
 
+
+
 export const metadata: Metadata = {
   title: "ExpenseTracker - Split Expenses with Friends",
   description: "Track and split expenses with your friends and roommates easily",
