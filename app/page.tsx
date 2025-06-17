@@ -90,7 +90,7 @@ export default function Home() {
                   with beautiful analytics and smart splitting.
                 </p>
               </div>
-              <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 w-full max-w-sm sm:max-w-none">
+              <div className="flex flex-col sm:flex-row justify-center items-center gap-2 sm:gap-3 w-full max-w-sm sm:max-w-none">
                 {user ? (
                   <>
                     <Link href="/add-expense" className="w-full sm:w-auto">
